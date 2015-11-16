@@ -1,0 +1,24 @@
+{
+  "name": "catfight",
+  "version": "0.0.1",
+  "description": "Cat fighting game created to demo storrdev/game-server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storrdev/catfight.git"
+  },
+  "keywords": [
+    "cat",
+    "fight",
+    "game"
+  ],
+  "author": "Stephen Orr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/storrdev/catfight/issues"
+  },
+  "homepage": "https://github.com/storrdev/catfight#readme"
+}
