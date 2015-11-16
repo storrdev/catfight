@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/storrdev/catfight/issues"
   },
-  "homepage": "https://github.com/storrdev/catfight#readme"
+  "homepage": "https://github.com/storrdev/catfight#readme",
+  "dependencies": {}
 }

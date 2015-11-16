@@ -1,0 +1,93 @@
+{"frames": {
+
+"foreground.png":
+{
+	"frame": {"x":2,"y":2,"w":118,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":47},
+	"sourceSize": {"w":118,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_0_delay-0.13s.gif":
+{
+	"frame": {"x":122,"y":2,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_1_delay-0.13s.gif":
+{
+	"frame": {"x":924,"y":2,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_2_delay-0.13s.gif":
+{
+	"frame": {"x":2,"y":340,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_3_delay-0.13s.gif":
+{
+	"frame": {"x":804,"y":340,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_4_delay-0.13s.gif":
+{
+	"frame": {"x":2,"y":678,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_5_delay-0.13s.gif":
+{
+	"frame": {"x":804,"y":678,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_6_delay-0.13s.gif":
+{
+	"frame": {"x":2,"y":1016,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frame_7_delay-0.13s.gif":
+{
+	"frame": {"x":804,"y":1016,"w":800,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":336},
+	"sourceSize": {"w":800,"h":336},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "watefall-forest.png",
+	"format": "RGBA8888",
+	"size": {"w":1726,"h":1354},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:55bf2494156017f1d05e68190962ecdb:f6b3c7a675187d430946d501284bfbe8:348740b6b7fa58fe10d3462866aa5eb6$"
+}
+}
